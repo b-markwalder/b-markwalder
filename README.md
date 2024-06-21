@@ -1,8 +1,6 @@
-## Hey there, I'm Brandon
+## Welcome! My name is Brandon.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-markwalder-708436279)
-
-Welcome! Take a look at my web development journey. 
 
 I discovered my passion for web development and decided to dive headfirst into coding. Self-taught and driven, I’m always on a mission to learn and create.
 
